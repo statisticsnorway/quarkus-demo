@@ -1,0 +1,21 @@
+# Binaries
+*.jar
+*.class
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Eclipse project file
+.settings/
+.classpath
+.project
+.sts4-cache
+
+# Maven 
+target/
+
+#OS
+.DS_Store
